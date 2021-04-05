@@ -24,7 +24,7 @@ function App(){
     }
   },[num1, num2])
 
-  
+ 
   function adicionarContador(){
     setContador(contador+1)
     console.log(`O valor ${contador} foi adicionado!`)
